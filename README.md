@@ -1,1 +1,2 @@
 # ML-Capstone-Project
+Developed a supervised machine learning model to classify iris species using the Iris dataset. Cleaned and processed data, extracted key features, and implemented K-Nearest Neighbors (KNN) and Logistic Regression algorithms. Achieved a classification accuracy of 96.67% by optimizing the K value. Created visualizations to analyze feature importance and model performance, demonstrating proficiency in Python, scikit-learn, and data visualization libraries.
